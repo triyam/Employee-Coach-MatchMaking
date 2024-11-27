@@ -1,4 +1,4 @@
-### GitHub Repository: **Enablerz Matchmaking Algorithm** 🌟
+### GitHub Repository: **Employee Coach Matchmaking Algorithm** 🌟
 
 **Overview:**  
 This repository implements an advanced matchmaking algorithm tailored to pair employees with the most compatible coaches. Using machine learning and deep learning techniques, the system calculates a compatibility score based on employee and coach attributes, streamlining the mentoring process in organizations or mentorship platforms.
